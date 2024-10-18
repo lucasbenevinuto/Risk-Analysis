@@ -59,8 +59,8 @@ And many more, providing a comprehensive overview of each applicant’s financia
 
 ## Results
 
-- **Classification Model**: Achieved an accuracy of %, with an ROC-AUC score of 0.91, indicating good performance in predicting loan approval.
-- **Regression Model**: Achieved an R² of 0.79 and MSE of 0.15 in predicting the risk score, demonstrating the model's ability to assess financial risk effectively.
+- **Classification Model**: Achieved an accuracy of 91,1%, indicating good performance in predicting loan approval.
+- **Regression Model**: Achieved an R² of 0.98 and MSE of 1.2 in predicting the risk score, demonstrating the model's ability to assess financial risk effectively.
 
 ## Repository Structure
 
@@ -82,7 +82,7 @@ And many more, providing a comprehensive overview of each applicant’s financia
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/loan-risk-assessment.git
+   git clone https://github.com/lucasbenevinuto/Risk-Analysis.git
    cd loan-risk-assessment
    ```
 
